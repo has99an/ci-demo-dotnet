@@ -1,0 +1,14 @@
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\bin\Debug\net10.0\CiDemoApp.exe
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\bin\Debug\net10.0\CiDemoApp.deps.json
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\bin\Debug\net10.0\CiDemoApp.runtimeconfig.json
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\bin\Debug\net10.0\CiDemoApp.dll
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\bin\Debug\net10.0\CiDemoApp.pdb
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\obj\Debug\net10.0\CiDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\obj\Debug\net10.0\CiDemoApp.AssemblyInfoInputs.cache
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\obj\Debug\net10.0\CiDemoApp.AssemblyInfo.cs
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\obj\Debug\net10.0\CiDemoApp.csproj.CoreCompileInputs.cache
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\obj\Debug\net10.0\CiDemoApp.dll
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\obj\Debug\net10.0\refint\CiDemoApp.dll
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\obj\Debug\net10.0\CiDemoApp.pdb
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\obj\Debug\net10.0\CiDemoApp.genruntimeconfig.cache
+C:\Softwareudvikling\2.semester\DevOps\CiDemoApp\CiDemoApp\CiDemoApp\obj\Debug\net10.0\ref\CiDemoApp.dll
