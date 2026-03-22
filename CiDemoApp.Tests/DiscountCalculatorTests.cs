@@ -12,7 +12,7 @@ public class DiscountCalculatorTests
 
         decimal result = calculator.CalculateFinalPrice(100, 10);
 
-        Assert.Equal(90, result);
+        Assert.Equal(990, result);
     }
 
     [Fact]
