@@ -11,7 +11,7 @@ public class DiscountCalculator
             throw new ArgumentException("Discount percent must be between 0 and 100.");
 
         decimal discountAmount = originalPrice * (discountPercent / 100);
-        decimal finalPrice = originalPrice - discountAmount;
+        decimal finalPrice = originalPrice + discountAmount;
 
         return finalPrice;
     }
